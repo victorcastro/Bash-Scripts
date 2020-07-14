@@ -1,3 +1,5 @@
+Source: https://forums.cpanel.net/threads/specific-php-cli-version-for-account.636529/
+
 alias php='/opt/cpanel/ea-php71/root/usr/bin/php'
 
 and
