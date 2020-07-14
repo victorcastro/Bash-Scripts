@@ -1,0 +1,5 @@
+alias php='/opt/cpanel/ea-php55/root/usr/bin/php'
+
+and
+
+alias php='/usr/local/bin/ea-php55'
